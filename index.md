@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+# Rehema H. Mwawado
 
-You can use the [editor on GitHub](https://github.com/Rahmahermes/rehema-cv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+[Email](mailto:rehema.mwawado@sua.ac.tz) / [Website](https://github.com/Rahmahermes/) / [LinkedIn](https://www.linkedin.com/in/rehema-h-m-b80842ba/) / [GitHub](https://github.com/Rahmahermes/) / [Twitter](https://twitter.com/RayMwawado/) 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 👩🏼‍💻 Work Experience
 
-### Markdown
+- **Assistant Lecturer** @ [Sokoine University of Agriculture](https://www.sua.ac.tz/) _(Dec 2020 - Present)_ <br>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- **Assistant Lecturer | Electronics and Telecommunications Engineering** @ [National Institute of Transport](https://nit.ac.tz/) _(Nov 2020 - Jan 2021)_ <br>
+- **Network Engineer** @ [NETIS Holding Ltd.](https://netis.group/about-netis/) _(July 2016 - Feb 2018)_ <br>
+- **Network Operations Engineer** @ [Helios Towers (HT)](https://www.heliostowers.com/) _(Dec 2015 - July 2016)_ <br>
+## 👩🏼‍🎓 Education
 
-```markdown
-Syntax highlighted code block
+**MSc** in Information and Communication Science and Engineering<br>
+[The Nelson Mandela African Institution of Science and Technology (NM-AIST)](https://nm-aist.ac.tz/) - Arusha, Tanzania _(2018-2021)_
 
-# Header 1
-## Header 2
-### Header 3
+**Bachelor of Engineering** in Electronics and Communications Engineering <br>
+[SJUIT](https://sjuit.ac.tz/) - Dar es salaam, Tanzania _(2011 - 2015)_
+## 👩🏼‍🎓 Research Area
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Rahmahermes/rehema-cv/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- **Tiny Machine Learning**
+- [**Digital Image Processing**](https://www.mathworks.com/matlabcentral/fileexchange/73965-edge-detection-method-for-dfu-images?s_tid=srchtitle)
+- **Internet of Things**
+## 👩🏼‍🎓 Publications
+- [**Development of a Fast and Accurate Computer Algorithm for the Segmentation of Diabetic Foot
+Ulcer Images**](https://dspace.nm-aist.ac.tz/bitstream/handle/20.500.12479/913/MSc_ICSE_Rehema_Mwawado_2020.pdf?sequence=1&isAllowed=y)
+- [**Robust Edge Detection Method for
+Segmentation of Diabetic Foot Ulcer Images**](https://www.etasr.com/index.php/ETASR/article/view/3495)
