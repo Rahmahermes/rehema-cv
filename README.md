@@ -19,10 +19,11 @@
 ## 👩🏼‍🎓 Research Area
 
 - **Tiny Machine Learning**
-- [**Digital Image Processing**](https://www.mathworks.com/matlabcentral/fileexchange/73965-edge-detection-method-for-dfu-images?s_tid=srchtitle)
+- **Digital Image Processing**
 - **Internet of Things**
 ## 👩🏼‍🎓 Publications
 - [**Development of a Fast and Accurate Computer Algorithm for the Segmentation of Diabetic Foot
 Ulcer Images**](https://dspace.nm-aist.ac.tz/bitstream/handle/20.500.12479/913/MSc_ICSE_Rehema_Mwawado_2020.pdf?sequence=1&isAllowed=y)
 - [**Robust Edge Detection Method for
 Segmentation of Diabetic Foot Ulcer Images**](https://www.etasr.com/index.php/ETASR/article/view/3495)
+- [**DFU Edge Detection**](https://www.mathworks.com/matlabcentral/fileexchange/73965-edge-detection-method-for-dfu-images?s_tid=srchtitle)
