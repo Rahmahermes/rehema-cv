@@ -5,7 +5,7 @@
 
 ## 👩🏼‍💻 Work Experience
 - **Assistant Lecturer** @ [Sokoine University of Agriculture](https://www.sua.ac.tz/) _(Dec 2020 - Present)_ 
-- **Assistant Lecturer | Electronics and Telecommunications Engineering** @ [National Institute of Transport](https://nit.ac.tz/) _(Nov 2020 - Jan 2021)_ 
+- **Assistant Lecturer (Electronics and Telecommunications Engineering)** @ [National Institute of Transport](https://nit.ac.tz/) _(Nov 2020 - Jan 2021)_ 
 - **Network Engineer** @ [NETIS Holding Ltd.](https://netis.group/about-netis/) _(July 2016 - Feb 2018)_
 - **Network Operations Engineer** @ [Helios Towers (HT)](https://www.heliostowers.com/) _(Dec 2015 - July 2016)_
 <br><br>
