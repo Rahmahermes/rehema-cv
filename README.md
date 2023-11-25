@@ -11,6 +11,7 @@
 <br><br>
 
 ## 👩🏼‍🎓 Education
+- **PhD** in IoT (Embedded Computing Systems<br> -African Center of IoT, University of Rwanda, Rwanda  _(2023-to present)_ 
 - **MSc** in Information and Communication Science and Engineering<br>
 [The Nelson Mandela African Institution of Science and Technology (NM-AIST)](https://nm-aist.ac.tz/) - Arusha, Tanzania _(2018-2021)_
 - **BEng** in Electronics and Communications Engineering
